@@ -93,3 +93,7 @@ Underschiede:
 - Riesiger Kabelaufwand 
 - Riesiger Verwaltungsaufwand 
 - Hohe ausfallsicherheit (es gibt ausweichstrecken fall eine andere verbindung gestört ist)
+
+**Pro(nicht wirklich besprochen)**
+- Alle Switches sind miteinander verbunden
+- hohe ausfallsicherheit 

@@ -18,7 +18,7 @@ Auszubildener:
 - Ausbildungsnachweis führen
 
 Ausbilder
-- Stellt sicher dsa berufliche handlungsfähigkeit in der planmäßig festgelegten zeit vermittelt wird 
+- Stellt sicher das berufliche handlungsfähigkeit in der planmäßig festgelegten zeit vermittelt wird 
 - selbst auszubilden oder jemanden ausdrücklich damit beauftragen
 - Materialien und Werkzeuge die benötigt werden  kostenlos zur verfügung stellen 
 - Auszubildene zum besuch der Berufsschule anzuhalten
