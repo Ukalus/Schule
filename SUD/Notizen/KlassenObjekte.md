@@ -7,6 +7,4 @@ Unterschied parameter Cls self
 Cls wird benutzt bei klassenmethoden
 self wird benutzt bei instanzmethode
 
-
-was sind klassenmethoden?
-    - 
+was sind klassenmethoden/ Statische methoden?
