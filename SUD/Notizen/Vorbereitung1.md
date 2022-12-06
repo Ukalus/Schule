@@ -1,4 +1,4 @@
-## Vorbereitung SUD 
+## Vorbereitung SUD Arbeit
 <br>
 
 ### Datentypen (iterables)
@@ -14,7 +14,7 @@
 **Dictionary**
 - geordnet 
 - veränderbar 
-- keine gleichen werte erlaubt
+- keine gleichen keys erlaubt
 - key-value paare   
 
 **Tupel**
@@ -55,3 +55,28 @@ Cls wird benutzt bei klassenmethoden
 self wird benutzt bei instanzmethode
 
 was sind klassenmethoden/ Statische methoden?
+
+<br>
+
+### String Kontatination
+
+----
+- Regex
+- Split
+
+<br>
+
+### Primitive Datentypen (in Python)
+
+----
+<br>
+
+### Statische/Instanz/Klassen Methoden
+
+----
+
+### 
+
+
+
+
