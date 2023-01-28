@@ -1,0 +1,81 @@
+10.255.1.133/25
+
+subnetzmaske:
+255.255.255.192
+11111111.11111111.1111111.1
+Netzadresse: 
+10.255.1.1000011
+10.255.1.128
+
+erste host adresse:
+10.255.1.129
+
+letzte host adresse:
+10.255.1.11111110
+10
+broadcast adresse:
+10.255.1.191
+
+
+120.3.0.1/16
+
+255.255.0.0
+
+Netzwerkadresse:
+
+120.3.0.0
+
+Erste Host adresse:
+
+120.3.0.1
+
+Letze Host adresse
+
+120.3.255.254
+
+Broadcast adresse:
+
+120.3.255.255
+
+
+222.2.2.102/29
+
+Subnetzmaske
+255.255.255.111110000
+
+Netzwerkadresse
+
+222.2.2.01100110
+222.2.2.96
+
+Erste Host Adresse:
+
+222.2.2.97
+
+Letzte Host Adresse:
+
+222.2.2.01100111
+222.2.2.102
+
+Broadcast adresse:
+
+222.2.2.103
+
+
+Adressraum
+100.100.0.0 / 16
+
+subnetzmaske:
+255.255.0.0
+
+100.100.255.254
+
+6 netze 
+
+
+
+
+
+
+
+
